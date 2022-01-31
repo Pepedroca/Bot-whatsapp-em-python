@@ -1,13 +1,15 @@
 """
 
-AT:
+obs:
 1- Primeira mente instale um executavel chamado chromedriver.exe link downloads
 para linux ou windowns: https://chromedriver.chromium.org/downloads
 e so jogar na raiz da sua pasta onde esta o seu codigo
 
-2- vai ficar pedindo pra vc conectar o seu whats no web.whatsapp quando executar o codigo entao o "sleep(16)"
+2 vai ficar pedindo pra vc conectar o seu whats no web.whatsapp quando executar o codigo entao o "sleep(16)"
 na linha "55" vai ser util para dar o tempo pra voce conectar o celular com o  codigo de barra  qualquer
 coisa so aumentar o tempo 
+
+3- installar o selenium no python 
 """
 
 from email import message
